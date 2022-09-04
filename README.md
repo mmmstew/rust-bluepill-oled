@@ -1,7 +1,7 @@
 # rust-bluepill-oled
 Flashes "Hello World!" every 100ms, for 100ms using the ubiquitous STM32F103C8-based "Bluepill" connected to the equally ubiquitous SSD1306-based 0.96" OLED available via Aliexpress etc.
 
-##Connections
+## Connections
 
 SDA -> PB9
 
